@@ -1,0 +1,1 @@
+"""Signature/offset resolution helpers."""
