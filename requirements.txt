@@ -1,0 +1,9 @@
+pywin32==306
+pymem==1.13.1
+keyboard==0.13.5
+pygame==2.5.2
+colorama==0.4.6
+requests==2.31.0
+pydantic==2.6.1
+loguru==0.7.2
+pytest==8.0.0
