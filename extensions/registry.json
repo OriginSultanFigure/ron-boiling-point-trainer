@@ -1,0 +1,34 @@
+{
+  "extensions": [
+    {
+      "module": "extensions.godmode",
+      "class": "GodmodeExtension",
+      "enabled": true,
+      "options": { "hotkey": "f1" }
+    },
+    {
+      "module": "extensions.infinite_ammo",
+      "class": "InfiniteAmmoExtension",
+      "enabled": true,
+      "options": { "hotkey": "f2" }
+    },
+    {
+      "module": "extensions.no_recoil",
+      "class": "NoRecoilExtension",
+      "enabled": true,
+      "options": { "hotkey": "f3", "strength": 1.0 }
+    },
+    {
+      "module": "extensions.super_speed",
+      "class": "SuperSpeedExtension",
+      "enabled": false,
+      "options": { "hotkey": "f4", "multiplier": 2.5 }
+    },
+    {
+      "module": "extensions.esp",
+      "class": "EspExtension",
+      "enabled": false,
+      "options": { "hotkey": "f5", "max_distance": 200.0 }
+    }
+  ]
+}
